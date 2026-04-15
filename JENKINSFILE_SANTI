@@ -13,7 +13,7 @@ pipeline {
         
         stage('Build') {
             steps {
-                echo 'Eyyy, esto es Python. No hay que compilar nada!!!'
+                echo 'Eyyyyy, esto es Python. No hay que compilar nada!!!'
                 // Mantenemos WORKSPACE tal cual lo tenías
                 echo WORKSPACE
                 sh 'ls' 
