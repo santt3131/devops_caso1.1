@@ -1,0 +1,2 @@
+/Users/santt/Documents/UNIR/1_Curso Devops/CASOS PRACTICOS/REPOS/CASO1/helloworld/test/rest/api_test.py:20: MEDIUM: B310: Audit url open for permitted schemes. Allowing use of file:/ or custom schemes is often unexpected.
+/Users/santt/Documents/UNIR/1_Curso Devops/CASOS PRACTICOS/REPOS/CASO1/helloworld/test/rest/api_test.py:30: MEDIUM: B310: Audit url open for permitted schemes. Allowing use of file:/ or custom schemes is often unexpected.
